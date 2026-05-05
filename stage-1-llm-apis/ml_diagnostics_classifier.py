@@ -7,6 +7,7 @@ and return structured diagnostic information.
 
 Author: Oluwanifemi Afolayan
 Medium: https://medium.com/@nifemiafolayanofficial
+GitHub: https://github.com/oluwanifemitech
 """
 
 import json
