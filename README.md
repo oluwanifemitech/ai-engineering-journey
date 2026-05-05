@@ -1,6 +1,6 @@
 # AI Engineering Journey
 
-A structured, hands-on learning path through AI Engineering — built from the perspective of a practicing Data Scientist.
+A structured, hands-on learning path through AI Engineering built from the perspective of a practicing Data Scientist.
 
 Each stage covers a core area of AI engineering with working code, documented learnings, and a companion write-up on Medium.
 
