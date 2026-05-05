@@ -21,7 +21,7 @@ Each stage covers a core area of AI engineering with working code, documented le
 
 I'm a Data Scientist building at the intersection of classical machine learning and AI engineering. This repo documents the projects, experiments, and lessons from that journey — honestly, with real code and real numbers.
 
-**Medium:** [medium.com/@nifemiafolayanofficial](https://medium.com/@nifemiafolayanofficial)
+**Medium:** [medium.com/@nifemiafolayanofficial](https://medium.com/@nifemiafolayanofficial) **GitHub:** [github.com/oluwanifemitech]
 
 ---
 
