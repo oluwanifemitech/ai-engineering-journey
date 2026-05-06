@@ -1,6 +1,6 @@
 # AI Engineering Journey
 
-A structured, hands-on learning path through AI Engineering built from the perspective of a practicing Data Scientist.
+A structured, hands-on learning path through AI Engineering — built from the perspective of a practicing Data Scientist.
 
 Each stage covers a core area of AI engineering with working code, documented learnings, and a companion write-up on Medium.
 
@@ -11,8 +11,8 @@ Each stage covers a core area of AI engineering with working code, documented le
 | Stage | Topic | Status | Write-up |
 |---|---|---|---|
 | 1 | LLM APIs — Claude API, prompts, structured outputs | ✅ Complete | [Read on Medium](https://medium.com/@nifemiafolayanofficial) |
-| 2 | RAG & Vector Databases | 🔄 In progress | Coming soon |
-| 3 | Agents & Tool Use | ⏳ Upcoming | Coming soon |
+| 2 | RAG & Vector Databases | ✅ Complete | [Read on Medium](https://medium.com/@nifemiafolayanofficial) |
+| 3 | Agents & Tool Use | 🔄 In progress | Coming soon |
 | 4 | Evaluation Frameworks | ⏳ Upcoming | Coming soon |
 
 ---
@@ -21,7 +21,8 @@ Each stage covers a core area of AI engineering with working code, documented le
 
 I'm a Data Scientist building at the intersection of classical machine learning and AI engineering. This repo documents the projects, experiments, and lessons from that journey — honestly, with real code and real numbers.
 
-**Medium:** [medium.com/@nifemiafolayanofficial](https://medium.com/@nifemiafolayanofficial) **GitHub:** [github.com/oluwanifemitech](https://github.com/oluwanifemitech)
+**Medium:** [medium.com/@nifemiafolayanofficial](https://medium.com/@nifemiafolayanofficial)
+**GitHub:** [github.com/oluwanifemitech](https://github.com/oluwanifemitech)
 
 ---
 
